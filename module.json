@@ -1,0 +1,16 @@
+{
+  "id": "foundry-keypad",
+  "title": "Keypad",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A package for installing usable keypads on doors",
+  "authors": [
+    {
+      "name": "Arrrthritis",
+      "flags": {}
+    }
+  ]
+}
